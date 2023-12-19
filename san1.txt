@@ -1,0 +1,8 @@
+work flow of git
+
+initializing 
+config
+add
+commit
+push
+

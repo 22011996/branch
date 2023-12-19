@@ -1,0 +1,13 @@
+git init
+git config user.name "name"
+git config user.email "email"
+git add
+git add .
+git add *.ext
+git commit -m "message"
+git remote add origin URL
+git push origin master
+git log
+git status
+git log -- one line
+history
